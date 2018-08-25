@@ -14,4 +14,4 @@ var nestedArray = [
   [4, 'Steve Job', 'Apple']
 ]
 
-panggilNestedArray()
+panggilNestedArray(nestedArray)
